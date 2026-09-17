@@ -209,6 +209,8 @@ export const SPECIALTIES: SpecialtyItem[] = [
   {
     id: 'portrait',
     iconName: 'Camera',
+    icon3d: '/icons/3d-camera.jpg',
+    tag: '35MM & MEDIUM FORMAT',
     title: 'Portrait',
     description:
       'Intimate, cinematic sessions that reveal the person behind the image. For individuals, families, and creatives who want depth over decoration.',
@@ -216,6 +218,8 @@ export const SPECIALTIES: SpecialtyItem[] = [
   {
     id: 'editorial',
     iconName: 'Aperture',
+    icon3d: '/icons/3d-aperture.jpg',
+    tag: 'FASHION & CAMPAIGN',
     title: 'Editorial',
     description:
       'Strong concepts. Stronger execution. Fashion and publication work built on a foundation of light, form, and intention.',
@@ -223,6 +227,8 @@ export const SPECIALTIES: SpecialtyItem[] = [
   {
     id: 'brand',
     iconName: 'Briefcase',
+    icon3d: '/icons/3d-briefcase.jpg',
+    tag: 'EXECUTIVE & ATELIER',
     title: 'Brand',
     description:
       'Visual identity photography for founders, studios, and businesses that understand the power of a compelling image.',

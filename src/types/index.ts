@@ -20,6 +20,8 @@ export interface PortfolioItem {
 export interface SpecialtyItem {
   id: string;
   iconName: 'Camera' | 'Aperture' | 'Briefcase';
+  icon3d: string;
+  tag: string;
   title: string;
   description: string;
 }
